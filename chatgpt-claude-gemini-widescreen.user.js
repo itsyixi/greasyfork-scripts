@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name        ChatGPT / Claude / Gemini WideScreen 界面宽屏
-// @namespace
+// @updateURL   https://raw.githubusercontent.com/itsyixi/greasyfork-scripts/refs/heads/main/chatgpt-claude-gemini-widescreen.user.js
+// @downloadURL https://raw.githubusercontent.com/itsyixi/greasyfork-scripts/refs/heads/main/chatgpt-claude-gemini-widescreen.user.js
+// @namespace   https://example.com/efficient-lazy-panda
 // @match       *://claude.ai/*
 // @match       *://chatgpt.com/*
 // @match       *://gemini.google.com/*
